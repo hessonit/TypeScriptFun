@@ -1,0 +1,16 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "sandbox projext for TypeScript learing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "hessonit",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  }
+}
